@@ -1,5 +1,8 @@
 class Car():
+#这个主要是用在学习如何使用git上面 git的操作
+#练习操作 git 下 从unstage 到 stage所需要的步骤
 
+#再操练一下下 
 	def __init__(self,make,model,year):
 		self.maked = make
 		self.model = model
